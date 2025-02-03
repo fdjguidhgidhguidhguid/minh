@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@ptkdev/logger": "^1.8.0",
+    "axios": "^1.7.9",
+    "https-proxy-agent": "^7.0.6",
+    "input": "^1.0.1",
+    "pkg": "^5.8.1"
+  }
+}
